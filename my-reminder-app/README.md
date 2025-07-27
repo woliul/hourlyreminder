@@ -23,7 +23,7 @@ Before running this frontend, ensure you have:
     ```bash
     cd path/to/your/my-reminder-app
     ```
-    (e.g., `cd F:\Oli\Development\my-reminder-app`)
+    (e.g., `cd F:\Development\my-reminder-app`)
 
 2.  **Install dependencies:**
     ```bash
