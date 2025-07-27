@@ -20,7 +20,7 @@ This is the backend for the Reminder App, built with Node.js, Express, and SQLit
     ```bash
     cd path/to/your/reminder-backend
     ```
-    (e.g., `cd F:\Oli\Development\reminder-backend`)
+    (e.g., `cd F:\Development\reminder-backend`)
 
 2.  **Install dependencies:**
     ```bash
