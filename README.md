@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed on your system:
 
 It is crucial that your backend and frontend projects are in **separate, sibling directories**.
 
-Your project structure should look like this (replace `your-development-folder` with your actual path, e.g., `F:\Oli\Development\`):
+Your project structure should look like this (replace `your-development-folder` with your actual path, e.g., `F:\Development\`):
 
 ```
 
@@ -58,7 +58,7 @@ Follow these steps to get the Reminder App up and running.
     ```bash
     cd path/to/your/reminder-backend
     ```
-    (Replace `path/to/your/reminder-backend` with the actual path, e.g., `cd F:\Oli\Development\reminder-backend`)
+    (Replace `path/to/your/reminder-backend` with the actual path, e.g., `cd F:\Development\reminder-backend`)
 3.  **Install backend dependencies:**
     ```bash
     npm install
@@ -84,7 +84,7 @@ Follow these steps to get the Reminder App up and running.
     ```bash
     cd path/to/your/my-reminder-app
     ```
-    (Replace `path/to/your/my-reminder-app` with the actual path, e.g., `cd F:\Oli\Development\my-reminder-app`)
+    (Replace `path/to/your/my-reminder-app` with the actual path, e.g., `cd F:\Development\my-reminder-app`)
 3.  **Install frontend dependencies:**
     ```bash
     npm install
