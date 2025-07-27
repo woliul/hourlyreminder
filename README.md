@@ -37,11 +37,11 @@ your-development-folder/
 │   ├── package.json
 │   └── ... (other React project files)
 └── reminder-backend/         \# Node.js Backend (API & SQLite)
-├── db.js                 \# SQLite database connection
-├── server.js             \# Express API server
-├── reminders.db          \# SQLite database file (will be created automatically)
-├── package.json
-└── node\_modules/
+    ├── db.js                 \# SQLite database connection
+    ├── server.js             \# Express API server
+    ├── reminders.db          \# SQLite database file (will be created automatically)
+    ├── package.json
+    └── node\_modules/
 
 ````
 
